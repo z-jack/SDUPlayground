@@ -8,3 +8,8 @@
 ## SDU2iCal.py
 
 课表导出到日历文件(.ics)
+
+## 勤工俭学
+
+[貌似有bug，懒得修了，有需求再改](https://github.com/z-jack/SDUWorkStudy)
+
