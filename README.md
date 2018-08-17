@@ -1,5 +1,5 @@
-# SDUToolkits
-关于山东大学的瞎写的小工具
+# SDUPlayground
+> 关于山东大学的瞎写的小工具
 
 ## Score.py
 
